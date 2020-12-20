@@ -42,7 +42,7 @@ public class CharacterSelect : MonoBehaviour
 
     }
 
-
+ 
     [PunRPC]
     void RPC_CharSelected(int newchar, int prevchar)
     {
